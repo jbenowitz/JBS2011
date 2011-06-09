@@ -1,0 +1,275 @@
+<?xml version ="1.0"?>
+
+<transcript student="Helga Pataki" 
+			id="1234"
+			expectedGrad="2012">
+			<semester year="freshman"
+					semester="fall">
+					<class>
+						<name>Intro to Poetry</name>
+						<id>ENG 10a</id>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>10am-10:50</time>
+						<grade>B</grade>
+					</class>
+					<class>
+						<name>Intro to Sculpture</name>
+						<id>FA 12a</id>
+						<days>Tue</days>
+						<time>12pm-3pm</time>
+						<grade>A-</grade>
+					</class>
+					<class>
+						<name>Intro to Chemistry</name>
+						<id>CHEM 101a</id>
+						<lab_partner>Arnold</lab_partner>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>9am-9:50am</time>
+						<grade>A</grade>
+					</class>
+					<class>
+						<name>Freshman Seminar</name>
+						<id>FRESH 1a</id>
+						<days>Tue</days>
+						<days>Thur</days>
+						<time>10-11:20am</time>
+						<grade>B</grade>
+					</class>
+			</semester>
+			<semester year="freshmen"
+					semester="spring">
+					<class>
+						<name>Stickball</name>
+						<id>PE 12a</id>
+						<days>Tue</days>
+						<days>Thur</days>
+						<time>8am-10am</time>
+						<grade>P</grade>
+					</class>
+					<class>
+						<name>Intro to Chemistry b</name>
+						<id>CHEM 101b</id>
+						<lab_partner>Arnold</lab_partner>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>9am-9:50am</time>
+						<grade>B</grade>
+					</class>
+					<class>
+						<name>Women's Gender Overview</name>
+						<id>WGS 1a</id>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>10:00-10:40</time>
+						<grade>A</grade>
+					</class>
+					<class>
+						<name>Mud Art</name>
+						<id>FA 40b</name>
+						<days>Tue</days>
+						<time>10am-1:50</time>
+						<grade>A</grade>
+					</class>
+			</semester>
+			<semester year="sophomore"
+					semester="fall">
+					<class>
+						<name>Bubble Gum Sculptures</name>
+						<id>FA 42a</id>
+						<days>Tue</days>
+						<time>10am-1:50</time>
+						<grade>B</grade>
+					</class>
+					<class>
+						<name>Tomboys: The Boyish Female</name>
+						<id>WGS 27a</id>
+						<days>Tue</days>
+						<days>Thur</days>
+						<time>3:00pm-4:20</time>
+						<grade>B+</grade>
+					</class>
+					<class>
+						<name>Italian Poetry</name>
+						<id>ENG 52a</id>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>12:00pm-12:50</time>
+						<grade>C</grade>
+					</class>
+					<class>
+						<name>Feminist Power</name>
+						<id>WGS 43a</id>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>3:00pm-3:50</time>
+					</class>
+			</semester>
+			<semester year="sophomore"
+				semester="spring">
+					<class>
+						<name>Animation</name>
+						<id>FA 42a</id>
+						<days>Tue</days>
+						<days>Thur</days>
+						<time>12:00pm-1:30<time>
+						<grade>B-</grade>
+					</class>
+					<class>
+						<name>Intro to Physics A</name>
+						<id>PHYS 101a</id>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>9:00am-9:10</time>
+						<grade>B</grade>
+					</class>
+					<class>
+						<name>World Music</name>
+						<id>MUS 50a</id>
+						<days>Mon</days>
+						<days>Wed</days>
+						<days>Fri</days>
+						<time>12pm-12:50</time>
+						<grade>A</grade>
+					</class>
+			</semester>
+			<semester year="junior"
+				semester="fall">
+				<class>
+					<name>Adv Spelling</name>
+					<id>ENG 52a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>10am-10:50</time>
+					<grade>A</grade>
+				</class>
+				<class>
+					<name>Recess Etiquette</name>
+					<id>PE 42a</id>
+					<days>Tue</days>
+					<days>Thur</days>
+					<time>1:00pm-2:20</time>
+					<grade>C</grade>
+				</class>
+				<class>
+					<name>History of Pigtails</name>
+					<id>HIST 20a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>9am-9:50am</time>
+					<grade>A</grade>
+				</class>
+				<class>
+					<name>Arithematic</name>
+					<id>Math 0a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>1:00pm-1:50</days>
+					<grade>B</grade>
+				</class>
+		</semester>
+		<semester year="junior"
+				semester="spring">
+				<class>
+					<name>Pogo Stick Newtonian Mechanics</name>
+					<id>PHYS 10a</phys>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>10:00am-10:50</time>
+					<grade>D</grade>
+				</class>
+				<class>
+					<name>Crayons and Between the Line Coloring</name>
+					<id>FA 25b</id>
+					<days>Tue</days>
+					<time>12:00pm-1:00</time>
+					<grade>D</grade>
+				</class>
+				<class>
+					<name>Beeper Business Politics</name>
+					<id>BUS 42b</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>5:00pm-5:50</time>
+					<grade>A</grade>
+				</class>
+				<class>
+					<name>Border House Living</name>
+					<id>SOC 64b</id>
+					<days>Tue</days>
+					<days>Fri</days>
+					<time>9:00am-10:30</time>
+					<grade>B</grade>
+				</class>
+		</semester>
+		<semester year="senior"
+				semester="fall">
+				<class>
+					<name>Real World Street Fighting</name>
+					<id>SOC 52a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>2:00-2:10</time>
+					<grade>D</grade>
+				</class>
+				<class>
+					<name>Hello, World!</name>
+					<id>COSI 56a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>5:00-6:00</time>
+					<grade>F</grade>
+				</class>
+				<class>
+					<name>Facebook</name>
+					<id>INT 526a</id>
+					<days>Tue</days>
+					<days>Thur</days>
+					<time>4:00-5:40</days>
+					<grade>A</grade>
+				</class>
+		</semester>
+		<semester year="senior"
+				semester="spring">
+				<class>
+					<name>How to graduate with style</name>
+					<id>SOC 2953a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>5:00-6:00</time>
+					<grade>A</grade>
+				</class>
+				<class>	
+					<name>Baking Chemistry</name>
+					<id>CHEM 52a</id>
+					<days>Tue</days>
+					<days>Thur</days>
+					<time>4:00-5:40</days>
+				</class>
+				<class>
+					<name>Bullying</name>
+					<id>SOC 101a</id>
+					<days>Mon</days>
+					<days>Wed</days>
+					<days>Fri</days>
+					<time>10:00am-10:50</time>
+					<grade>A</grade>
+				</class>
+		</semester>					
+</transcript>
